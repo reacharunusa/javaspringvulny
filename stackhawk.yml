@@ -1,6 +1,6 @@
 app:
-  applicationId: ${APP_ID:dacc7d3e-babc-47d2-b040-ab117ab04526}
-  env: ${APP_ENV:dev}
+  applicationId: ${APP_ID:7593fb6f-77b9-4538-8bc3-b6c8e99b7c63}
+  env: ${APP_ENV:Development}
   host: ${APP_HOST:https://localhost:9000}
   excludePaths:
     - "/logout"
